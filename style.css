@@ -1,0 +1,22 @@
+body, h1, p {
+    font-family: 'Luxurious Roman'
+}
+
+.btn {
+    font-family: 'Luxurious Roman'
+}
+
+
+img {
+    width:500px;
+    border-radius: 50px;
+    border: 5px darkkhaki;
+    allign-content:center;
+    justify-content: center;
+
+}
+
+.container{
+    text-align: center;
+    padding: 190px;
+}
